@@ -37,7 +37,7 @@ dataset/
 
 1. **Clone this repo**
 
-git clone https://github.com/your-username/leaf-disease-detection.git
+git clone https://github.com/Dhanraj200547/leaf-disease-detection.git
 cd leaf-disease-detection
 
 🏗️ Model Architecture
